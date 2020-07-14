@@ -1,0 +1,16 @@
+h2{
+    background-color: yellowgreen;
+    color: burlywood;
+    border-style: solid;
+    border-color: indianred;
+    border-width: 2px;
+    
+}
+h2#h2{
+    background-color: rgb(192, 255, 200);
+    border: 10px thin yellow;
+    padding: 5px;
+}
+.class1{
+    font-size: 55px;
+}
